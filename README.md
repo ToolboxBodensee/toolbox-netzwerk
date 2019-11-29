@@ -1,6 +1,8 @@
  Das Netzwerk der Toolbox Bodensee e.V.
 ==============================
 
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/toolbox-infrastructure/toolbox-netzwerk). Auf GitHub befindet sich lediglich ein Mirror**
+
 # Git Hinweis
 
 **Achtung**, dieses git repository enthält submodule. Diese können wie folgt runtergeladen werden:
