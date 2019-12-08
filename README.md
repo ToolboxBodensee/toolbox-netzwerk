@@ -24,8 +24,7 @@ Wenn du keine Erfahrungen mit git hast ist im Zweifelsfall ein neu clonen mit su
  Mithelfen
 ------------
 
-**Mitarbeit** ist hier gerne gesehen. Bei Fragen gerne einfach ein Issue öffnen oder Menschen wie [L3D](https://chaos.social/@l3d), [Alex](https://github.com/Devil0000) oder [Max](https://github.com/maxbachmann) ansprechen.
-
+**Mitarbeit** ist hier gerne gesehen. Bei Fragen gerne einfach ein Issue öffnen oder komme Donnerstagsabends zum wöchentlichen Toolbox-Meeting in das Vereinsheim!
 Wie du Zugänge bekommst, erfährst du in [ZUGANG.md](https://gitlab.com/ToolboxBodensee/toolbox-infrastructure/toolbox-netzwerk/tree/master/doc/ZUGANG.md)
 
  Netzwerk Setup
