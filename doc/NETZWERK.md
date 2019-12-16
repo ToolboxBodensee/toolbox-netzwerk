@@ -75,6 +75,9 @@ S¹ bis S³ sind cisco switche und per ansible administriert. S⁴ ist ein passi
 --------------
 Static IPs are currently *(June 2019)* managed in the ``group_vars/router.yml`` file.
 
-We currently only use the ``172.23.16.0/20`` subnet for all devices. THIS WILL CHANGE SOON.
+We currently only use the ``172.23.16.0/20`` subnet for all devices. 
+
 VMs in the openstack-installation get random IP-adresses from the range ``172.23.23/24`` from DHCP-Server during vm-boot.
-There we dont give random IPs from the ``172.23.31/24`` range to clients in the network. Use this are for static dhcp leases.`
+
+The DHCP-Server don't gives random IPs from the ``172.23.31/24`` range to clients in the network. Use this are for static dhcp leases. How to give a device one static IP is described at networking-FAQ in teh Toolbox-Wiki: https://wiki.toolbox-bodensee.de/doku.php?id=netzwerk:faq#wie_kann_ich_dafuer_sorgen_dass_mein_geraet_im_toolbox-netz_eine_statische-ip_hat
+Follow this guideline to enable a static IP for your device`
