@@ -78,5 +78,6 @@ We currently only use the ``172.23.16.0/20`` subnet for all devices.
 
 VMs in the openstack-installation get random IP-adresses from the range ``172.23.23/24`` from DHCP-Server during vm-boot.
 
-The DHCP-Server don't gives random IPs from the ``172.23.31/24`` range to clients in the network. How to give a device one static IP is described at networking-FAQ in the Toolbox-Wiki: [How-To_Satische-IP im Toolbox-Netzwerk]https://wiki.toolbox-bodensee.de/doku.php?id=netzwerk:faq#wie_kann_ich_dafuer_sorgen_dass_mein_geraet_im_toolbox-netz_eine_statische-ip_hat)
-Follow this guideline to enable a static IP for your device`
+The DHCP-Server don't gives random IPs from the ``172.23.31/24`` range to clients in the network. Use this area for static-IPs.
+How to give a device a free static IP is described at networking-FAQ in the Toolbox-Wiki: [How-To_Statische-IP im Toolbox-Netzwerk](https://wiki.toolbox-bodensee.de/doku.php?id=netzwerk:faq#wie_kann_ich_dafuer_sorgen_dass_mein_geraet_im_toolbox-netz_eine_statische-ip_hat)
+Follow this guideline to enable a static IP for your device!
